@@ -1,0 +1,5 @@
+# Ignore csv files for project due to size constraints
+
+MechaCar_mpg.csv
+Suspension_Coil.csv
+

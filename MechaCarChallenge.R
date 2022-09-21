@@ -1,0 +1,1 @@
+read.csv(MechaCar_mpg)
