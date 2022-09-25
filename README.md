@@ -4,7 +4,9 @@
 ## Linear Regression to Predict MPG
 
 <p align="center">
+  
 ![Linear Regression to Predict MPG](Resources/LR_to_predict_MPG.png)
+
 </p>
 
 - As shown in the above results, the coefficients of ***Vehicle Length*** and ***Ground Clearance*** provide the most non-random amnount of varianmce to the MPG values and are statistically significant. Furthermore, the ***Intercept*** is also statistically significant, but this may mean that the significant features need scaling or transforming to help improve the predictive power of the model. It also may meant that there are other variables can help explain the variability of the MPG variable that have not been included in our model.
