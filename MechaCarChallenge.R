@@ -1,3 +1,5 @@
+# Deliverable 1
+
 library(dplyr)
 MechaCar_mpg_df <- read.csv(file='Resources/MechaCar_mpg.csv',check.names=FALSE,stringsAsFactors = FALSE)
 
@@ -13,3 +15,5 @@ summary(lm(mpg ~ vehicle_length +
              spoiler_angle + 
              ground_clearance + 
              AWD,data=MechaCar_mpg_df))
+
+# Deliverable 2
