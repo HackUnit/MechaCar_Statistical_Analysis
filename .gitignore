@@ -1,5 +1,8 @@
-# Ignore csv files for project due to size constraints
+# Ignore csv files for project due to size constraints and RStudio files that should stay local
 
-MechaCar_mpg.csv
-Suspension_Coil.csv
+Resources/MechaCar_mpg.csv
+Resources/Suspension_Coil.csv
 
+.Rproj.user
+.Rhistory
+MechaCar_Statistical_Analysis.Rproj
