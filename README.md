@@ -39,7 +39,7 @@
 
 ### Written Summary
 
-- A summary analysis was done on both the total and by manufacturing lots of the MechaCar suspension coils to see if the variances were within specification. The design specifications dictates that the variance cannot exceed **100** ***PSI***. For the total summary the variance is well within the design specifications at a variance of **62.29** ***PSI***. For the summary on the manufacturing lots we can see that while Lot 1 and Lot 2 are well within the variance specifications, Lot 3 far exceeds the specifications with a variance of **170.28** ***PSI***.
+- A summary analysis was done on both the total of the manufacturing lots and on each specific manufacturing lot. Theses tests were specifically on the MechaCar suspension coils to see if the variances were within specification. The design specifications dictates that the variance cannot exceed **100** ***PSI***. For the total summary the variance is well within the design specifications at a variance of **62.29** ***PSI***. For the summary on the manufacturing lots we can see that while Lot 1 and Lot 2 are well within the variance specifications, Lot 3 far exceeds the specifications with a variance of **170.28** ***PSI***.
 
 <br>
 <br>
@@ -55,7 +55,7 @@
 <br>
 <sub>Summary T-Test on Suspension Coils Across All Lots</sub>
 
-- The first t-test was a summary test across all of the lots. The data shows a p-value of **0.06028**, which is higher than our assumed significance level of **0.05**, which implies that we do not have enough evidence to reject the null hypothesis and the sum of the lots is not statistically different from the population mean.
+- The first t-test was a summary test across all of the lots. The data shows a p-value of **0.06028**, which is higher than our assumed significance level of **0.05**. This implies we do not have enough evidence to reject the null hypothesis and the sum of the lots is not statistically different from the population mean.
 
 <br>
 
@@ -71,14 +71,14 @@
 <br>
 <sub>T-Test Lot 2 Suspension Coils</end>
 
-- The third test was done on Lot 2. This lot had a p-value of **0.6072**. This p-value also showed that this lot was not statistically different that the population mean, and also here there is not enough evidence to reject the null value.
+- The third test was done on Lot 2. This lot had a p-value of **0.6072**. This p-value also showed that this lot was not statistically different from the population mean, and also there was not enough evidence to reject the null hypothesis value.
 
 <br>
 
 ![T-Test Lot 3 Suspension Coils](Resources/T-Test_Lot1.png "T-Test Lot 3 Suspension Coils")
 <sub>T-Test Lot 3 Suspension Coils</sub>
 
-- The final test was done on Lot 3, and produced a p-value of **0.04168**. This value was slightly below our assumed significance level and is just barely statistically different from the population mean. This also means that the p-value is just low enough for us to reject the null hypothesis. Lot 3 has shown through our tests that closer inspection should be conducted to understand why the variance is so high and the statistical difference being off from the population mean.
+- The final test was done on Lot 3, and produced a p-value of **0.04168**. This value was slightly below our assumed significance level and is just barely statistically different from the population mean. This also means that the p-value is just low enough for us to reject the null hypothesis. Lot 3 has shown through our tests that closer inspection should be conducted to understand why the variance is so high and also why the statistical difference of this particular lot is off from the population mean.
 
 <br>
 <br>
