@@ -5,9 +5,7 @@
 
 ### Technical Analysis
 
-<p align="center">
-  <img src="Resources/LR_to_predict_MPG.png" alt="Linear Regression to Predict MPG"/>
-</p>
+![Linear Regression to Predict MPG](Resources/LR_to_predict_MPG.png "Linear Regression to Predict MPG")
 <sub>Linear Regression to Predict MPG</sub>
 
 <br>
@@ -27,16 +25,12 @@
 
 ### Technical Analysis
 
-<p align="center">
-  <img src="Resources/Total_Summary_SC.png" alt="Summary Statistics on Suspension Coils Across All Manufacturing Lots"/>
-</p>
+![Summary Statistics on Suspension Coils Across All Manufacturing Lots](Resources/Total_Summary_SC.png "Summary Statistics on Suspension Coils Across All Manufacturing Lots")
 <sub>Summary Statistics on Suspension Coils Across All Manufacturing Lots</sub>
 
-<p align="center">
-  <img src="Resources/Lot_Summary_SC.png" alt="Summary Statistics on Suspension Coils For Each Manufacturing Lot"/>
-</p>
-<sub>Summary Statistics on Suspension Coils For Each Manufacturing Lot</sub>
 
+![Summary Statistics on Suspension Coils For Each Manufacturing Lot](Resources/Lot_Summary_SC.png "Summary Statistics on Suspension Coils For Each Manufacturing Lot")"
+<sub>Summary Statistics on Suspension Coils For Each Manufacturing Lot</sub>
 
 <br>
 
@@ -51,9 +45,8 @@
 
 ### Technical Analysis
 
-<p align="center">
-  <img src="Resources/" alt="T-Tests on Suspension Coils"/>
-</p>
+![T-Tests on Suspension Coils](Resources/ "T-Tests on Suspension Coils)
+<sub>T-Tests on Suspension Coils</sub>
 
 <br>
 
