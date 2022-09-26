@@ -67,7 +67,7 @@
 
 <br>
 
-![T-Test Lot 2 Suspension Coils](Resources/T-Test_Lot1.png "T-Test Lot 2 Suspension Coils")
+![T-Test Lot 2 Suspension Coils](Resources/T-Test_Lot2.png "T-Test Lot 2 Suspension Coils")
 <br>
 <sub>T-Test Lot 2 Suspension Coils</end>
 
@@ -75,7 +75,7 @@
 
 <br>
 
-![T-Test Lot 3 Suspension Coils](Resources/T-Test_Lot1.png "T-Test Lot 3 Suspension Coils")
+![T-Test Lot 3 Suspension Coils](Resources/T-Test_Lot3.png "T-Test Lot 3 Suspension Coils")
 <sub>T-Test Lot 3 Suspension Coils</sub>
 
 - The final test was done on Lot 3, and produced a p-value of **0.04168**. This value was slightly below our assumed significance level and is just barely statistically different from the population mean. This also means that the p-value is just low enough for us to reject the null hypothesis. Lot 3 has shown through our tests that closer inspection should be conducted to understand why the variance is so high and also why the statistical difference of this particular lot is off from the population mean.
