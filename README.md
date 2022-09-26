@@ -9,7 +9,6 @@
 <br>
 <sub>Linear Regression to Predict MPG</sub>
 
-<br>
 
 ### Written Summary
 
@@ -35,7 +34,6 @@
 <br>
 <sub>Summary Statistics on Suspension Coils for Each Manufacturing Lot</sub>
 
-<br>
 
 ### Written Summary
 
@@ -65,6 +63,7 @@
 
 - The next t-test was done on Lot 1. The p-value of **1** shows that this lot is not statistically different from the population mean, and there is not enough evidence to reject the null hypothesis.
 
+<br>
 
 ![T-Test Lot 2 Suspension Coils](Resources/T-Test_Lot1.png "T-Test Lot 2 Suspension Coils")
 <br>
@@ -72,6 +71,7 @@
 
 - The third test was done on Lot 2. This lot had a p-value of **0.6072**. This p-value also showed that this lot was not statistically different that the population mean, and also here there is not enough evidence to reject the null value.
 
+<br>
 
 ![T-Test Lot 3 Suspension Coils](Resources/T-Test_Lot1.png "T-Test Lot 3 Suspension Coils")
 <sub>T-Test Lot 3 Suspension Coils</sub>
