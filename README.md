@@ -6,13 +6,14 @@
 ### Technical Analysis
 
 ![Linear Regression to Predict MPG](Resources/LR_to_predict_MPG.png "Linear Regression to Predict MPG")
+<br>
 <sub>Linear Regression to Predict MPG</sub>
 
 <br>
 
 ### Written Summary
 
-- As shown in the above results, the coefficients of ***Vehicle Length*** and ***Ground Clearance*** provide the most non-random amnount of varianmce to the MPG values and are statistically significant. Furthermore, the ***Intercept*** is also statistically significant, but this may mean that the significant features need scaling or transforming to help improve the predictive power of the model. It also may meant that there are other variables can help explain the variability of the MPG variable that have not been included in our model.
+- As shown in the above results, the coefficients of ***Vehicle Length*** and ***Ground Clearance*** provide the most non-random amount of variance to the MPG values and are statistically significant. Furthermore, the ***Intercept*** is also statistically significant, but this may mean that the significant features need scaling or transforming to help improve the predictive power of the model. It also may mean that there are other variables that can help explain the variability of the MPG variable and have not been included in our model.
 
 - In this specific linear model, we can not consider the slope to be zero. This is due to the factr that the P-value of **5.35e-11** is signicantally lower that the level of significance. This also means that the null hypothesis must be rejected, as the P-value indicates a incredibly low chance that these results were due to random chance.
 
@@ -26,10 +27,12 @@
 ### Technical Analysis
 
 ![Summary Statistics on Suspension Coils Across All Manufacturing Lots](Resources/Total_Summary_SC.png "Summary Statistics on Suspension Coils Across All Manufacturing Lots")
+<br>
 <sub>Summary Statistics on Suspension Coils Across All Manufacturing Lots</sub>
 
 
 ![Summary Statistics on Suspension Coils For Each Manufacturing Lot](Resources/Lot_Summary_SC.png "Summary Statistics on Suspension Coils For Each Manufacturing Lot")"
+<br>
 <sub>Summary Statistics on Suspension Coils For Each Manufacturing Lot</sub>
 
 <br>
@@ -46,6 +49,7 @@
 ### Technical Analysis
 
 ![T-Tests on Suspension Coils](Resources/ "T-Tests on Suspension Coils)
+<br>
 <sub>T-Tests on Suspension Coils</sub>
 
 <br>
