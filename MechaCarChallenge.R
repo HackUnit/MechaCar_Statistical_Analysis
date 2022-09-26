@@ -34,3 +34,18 @@ lot_summary <- Suspension_Coil_df %>% group_by(Manufacturing_Lot) %>% summarize(
                                                                                 Median=median(PSI),
                                                                                 Variance=var(PSI),
                                                                                 SD=sd(PSI))
+
+# Deliverable 3
+
+# T-test if PSI across lots is different than population mean of 1500 PSI
+t.test(Suspension_Coil_df$PSI, mu = 1500)
+
+# T-test on Lot 1 to check if PSI is different from population mean of 1500 PSI
+t.test(subset(Suspension_Coil_df, Manufacturing_Lot == "Lot1")$PSI, mu = 1500)
+
+# T-test on Lot 2...
+t.test(subset(Suspension_Coil_df, Manufacturing_Lot == "Lot2")$PSI, mu = 1500)
+
+# T-test on Lot 3...
+t.test(subset(Suspension_Coil_df, Manufacturing_Lot == "Lot3")$PSI, mu = 1500)
+
